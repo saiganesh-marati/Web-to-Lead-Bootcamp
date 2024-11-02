@@ -40,3 +40,11 @@ margin 25pc 50px 75px 10px
     border: 2px solid black;
     padding: 15px;
  }
+
+
+ .g-recaptcha
+ {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+ }
